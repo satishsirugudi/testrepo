@@ -1,0 +1,6 @@
+
+
+public abstract class testNew {
+
+	System.out.println("This is my first program")
+}
